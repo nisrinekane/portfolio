@@ -14,6 +14,7 @@ module.exports = {
       colors: {
         "custom-white": "#ccd6f6",
         "custom-gray":"#8892b0",
+        "custom-blue": "#112240"
       },
       body: {
         padding: "50px"

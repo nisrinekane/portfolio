@@ -86,7 +86,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 text-custom-white mt-8 mb-8">Portofolio</h3>
             <div class="flex flex-row  rounded overflow-hidden shadow-lg gap-10">
               {/* budget buddy */}
-              <div>
+              <div className="m-10 bg-custom-blue p-8">
                 <Image src={budgetbuddy} alt="budget buddy" />
                 <div class="px-6 py-4">
                   <div class="font-bold text-xl mb-2 text-teal-500 text-left">Budget Buddy</div>
@@ -97,7 +97,7 @@ export default function Home() {
                 </div>
               </div>
               {/* budget buddy */}
-              <div>
+              <div className="m-10 bg-custom-blue p-8">
                 <Image src={budgetbuddy} alt="budget buddy" />
                 <div class="px-6 py-4">
                   <div class="font-bold text-xl mb-2 text-teal-500 text-left">Budget Buddy</div>
@@ -109,24 +109,24 @@ export default function Home() {
               </div>
             </div>
             {/* second line */}
-            <div class="flex flex-row  rounded overflow-hidden shadow-lg gap-10">
+            <div class="flex flex-row  rounded overflow-hidden shadow-lg gap-5">
               {/* budget buddy */}
-              <div>
+              <div className="m-10 bg-custom-blue p-8">
                 <Image src={budgetbuddy} alt="budget buddy" />
                 <div class="px-6 py-4">
                   <div class="font-bold text-xl mb-2 text-teal-500 text-left">Budget Buddy</div>
-                  <p class="text-custom-gray text-base text-left">
+                  <p class="text-custom-gray text-base text-left mb-10">
                     Budget Buddy, an app that helps you track your spending and set goals for your budget. Features include a spending tracker, a fund tracker, a spending chart and a chat application.
                     Technologies: Python, Flask, PyMySql, SocketIO, Chart.js, npm, bcrypt and Bootstrap.
                   </p>
                 </div>
               </div>
               {/* budget buddy */}
-              <div>
+              <div className="m-10 bg-custom-blue p-8">
                 <Image src={budgetbuddy} alt="budget buddy" />
                 <div class="px-6 py-4">
                   <div class="font-bold text-xl mb-2 text-teal-500 text-left">Budget Buddy</div>
-                  <p class="text-custom-gray text-base text-left">
+                  <p class="text-custom-gray text-base text-left mb-10">
                     Budget Buddy, an app that helps you track your spending and set goals for your budget. Features include a spending tracker, a fund tracker, a spending chart and a chat application.
                     Technologies: Python, Flask, PyMySql, SocketIO, Chart.js, npm, bcrypt and Bootstrap.
                   </p>
