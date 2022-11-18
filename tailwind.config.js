@@ -10,6 +10,7 @@ module.exports = {
       fontFamily: {
         burtons: "burtons",
         poppins: ["Poppins", "sans-serif"],
+        spaceage: "spaceage",
       },
       colors: {
         "custom-white": "#ccd6f6",
