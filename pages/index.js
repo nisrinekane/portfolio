@@ -31,7 +31,7 @@ import calamarigame from "../public/calamari_game.gif"
 import rickandmorty from "../public/rick_morty.gif"
 import ccapproval from "../public/cc_approval.gif"
 
-// import me from "../public/pic.png"
+import me from "../public/me.png"
 
 export default function Home() {
 
@@ -74,7 +74,7 @@ export default function Home() {
               <a href="mailto: nisrine@nisrinekane.com"><AiOutlineMail /></a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20">
-              {/* <Image src={me} alt="Nisrine Kane profile photo" width={200} height={300} /> */}
+              <Image src={me} alt="Nisrine Kane profile photo" width={200} height={300} />
             </div>
           </div>
         </section>
