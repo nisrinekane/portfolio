@@ -66,7 +66,7 @@ export default function Home() {
               Software Engineer
             </h3>
             <p className="text-md text-center py-5 leading-8 text-gray-200 max-w-xl mx-auto md:text-xl">
-              I am a full stack software engineer based in Los Angeles. I am passionate about writing clean code to solve complex issues. My interests include FinTech, HealthTech and smart cities. I am currently looking for a full time position.
+              I am a software engineer based in Los Angeles. I am passionate about writing clean code to solve complex issues. My interests include FinTech, HealthTech and smart cities. I am currently looking for a full time position.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://www.github.com/nisrinekane"><AiFillGithub /></a>
@@ -124,7 +124,7 @@ export default function Home() {
                   <p class="text-custom-gray text-base text-left mt-5">
                     A Machine Learning tool that predicts credit card approvals by using a logistic regression model. The model relies on 15 different features to predict whether a credit card application will be approved or not.
                   </p>
-                  <p className="text-slate-500 mt-8">Technologies: React, Node.js, and Bootstrap</p>
+                  <p className="text-slate-500 mt-8">Technologies: Pandas, Numpy, Scikit-Learn</p>
                 </div>
               </div>
               {/* budget buddy */}
@@ -135,7 +135,7 @@ export default function Home() {
                   <p class="text-custom-gray text-base text-left mb-10 mt-5">
                     Rick and Morty, a web app that allows you to search for your favorite Rick and Morty characters and view their information. Features include a search bar, a character list and a character details page.
                   </p>
-                  <p className="text-slate-500 mt-10">Technologies: Python, Pandas, Numpy, Scikit-Learn.</p>
+                  <p className="text-slate-500 mt-10">Technologies: Python, React, Node.js, and Bootstrap.</p>
                 </div>
               </div>
             </div>
