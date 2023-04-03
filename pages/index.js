@@ -53,7 +53,7 @@ export default function Home() {
             </div>
             <ul className="flex items-center">
               <li>
-                <a className="bg-gradient-to-r from-teal-500 text- to-cyan-500 text-white px-4 py-2 border-none rounded-md ml-8" href="https://drive.google.com/file/d/1j1rjHpo0BT8gGENXfzB5NQCTr2IOQQhg/view?usp=sharing" target='_blank' rel='noopener noreferrer'> Resume </a>
+                <a className="bg-gradient-to-r from-teal-500 text- to-cyan-500 text-white px-4 py-2 border-none rounded-md ml-8" href="https://docs.google.com/document/d/1WgupEfnuOcG5tjaw90ui9Jju5p-UB6PHj8H2bCKAArQ/edit?usp=sharing" target='_blank' rel='noopener noreferrer'> Resume </a>
               </li>
             </ul>
           </nav>
@@ -66,7 +66,7 @@ export default function Home() {
               Software Engineer
             </h3>
             <p className="text-md text-center py-5 leading-8 text-gray-200 max-w-xl mx-auto md:text-xl">
-              I am a software engineer based in Los Angeles. I am passionate about writing clean code to solve complex issues. My interests include FinTech, HealthTech and smart cities. I am currently looking for a full time position.
+              I am a software engineer based in Los Angeles. I am passionate about writing clean code to solve complex issues. My interests include FinTech, HealthTech and smart cities. I am currently working as a backend engineer with technologies such as Python, Django, SQL and GCP. 
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://www.github.com/nisrinekane"><AiFillGithub /></a>
@@ -74,7 +74,7 @@ export default function Home() {
               <a href="mailto: nisrine@nisrinekane.com"><AiOutlineMail /></a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20">
-              <Image src={me} alt="Nisrine Kane profile photo" width={200} height={300} />
+              <Image src={me} alt="Nisrine Kane profile photo" width={240} height={320} />
             </div>
           </div>
         </section>
