@@ -1,4 +1,4 @@
-### A personal portfolio and website template made in React, Next.js and Tailwindcss
+
 
 <hr>
 
