@@ -1,12 +1,8 @@
 {
-  "resolutions": {
-    "json5": "^1.0.2"
-  },
   "name": "rectify",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "preinstall": "npx npm-force-resolutions",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -16,13 +12,14 @@
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "firebase": "^9.10.0",
+    "json5": "^1.0.2",
     "moment": "^2.29.4",
     "next": "12.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-pdf": "^6.1.0"
-  },
+  },  
   "devDependencies": {
     "autoprefixer": "^10.4.12",
     "eslint": "8.24.0",
