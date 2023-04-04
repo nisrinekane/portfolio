@@ -22,10 +22,11 @@
   },  
   "devDependencies": {
     "autoprefixer": "^10.4.12",
-    "eslint": "8.24.0",
+    "eslint": "^7.32.0",
     "eslint-config-next": "12.3.1",
     "npm-force-resolutions": "^0.0.10",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   }
+  
 }
