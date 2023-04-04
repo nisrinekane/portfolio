@@ -1,6 +1,6 @@
 {
   "resolutions": {
-    "json5": ">=1.0.2"
+    "json5": "^1.0.2"
   },
   "name": "rectify",
   "version": "0.1.0",
